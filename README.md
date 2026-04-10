@@ -85,6 +85,7 @@ It boosted my confidence to apply what I learned into something real.
 
 📌 Project Author
 👨‍💻 Ravi Roy
+raviroy2002@gmail.com
 B.Tech CSE, IILM University
 Core IIC Club Member, Ex-Intern @ Oasis Infobyte, YBI Foundation, CodeAlpha
 Passionate about AI/ML & solving real-world problems 🌱
